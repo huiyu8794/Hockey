@@ -1,2 +1,2 @@
-# Minigame - Hockey
-## Introduction of Computer Science Final Project
+# Hockey
+Minigame in Introduction of Computer Science Final Project
